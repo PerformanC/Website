@@ -15,7 +15,7 @@ To view a copy of this license, visit <https://creativecommons.org/licenses/by-n
 ## RainyXeon / DeepLunaria (/assets/deeplunaria)
 
 ```txt
-Copyright (c) 2026 DeepLunaria / RainyXeon <rainyxeon@gmail.com>
+Copyright (c) 2026 DeepLunaria / RainyXeon <rainyxeon@deeplunaria.page>
 
 All media content located in the `/assets/performanc` directory is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
 You are permitted to share and redistribute this material in any medium or format, provided that appropriate credit is given to the original source.
